@@ -1,7 +1,7 @@
 sandeep
 Test section
 Test
-
+NEW text after branching from sandeep
 
 This is a change on mxl5588/featuretest1
 
