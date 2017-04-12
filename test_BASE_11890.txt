@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-mike and sandeepjshdajhsdajshdajsasas
-=======
-testing from sandeepsandeep
->>>>>>> tmsandeep/abc
+sandeep
 Test section
 Test
 NEW text after branching from sandeep

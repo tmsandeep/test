@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-mike and sandeepjshdajhsdajshdajsasas
+mike and sandeep
 =======
 testing from sandeepsandeep
 >>>>>>> tmsandeep/abc
